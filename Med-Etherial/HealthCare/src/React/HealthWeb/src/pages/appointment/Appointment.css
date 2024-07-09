@@ -1,0 +1,11 @@
+.appointSchedule{
+    width:50%;
+    height:35%;
+    background-image:  linear-gradient(to right,#00d0ff , #2b026d);
+    position: absolute;
+    border-radius: 100px;
+    left:25%;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+}
